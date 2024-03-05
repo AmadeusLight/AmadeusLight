@@ -2,7 +2,7 @@
 #### I am Industrial & Systems Engineer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amadeuslight&show_icons=true&theme=radical)
 
-
+![Header](./github-header-image.png)
 ## Skills: 
 Microsoft Office/ SQL/ Data Analysis/ project management/Artist 2D/ 
 
