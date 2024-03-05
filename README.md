@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Ricardo
+### Hi there 👋, my name is Ricardo Terrazas
 #### I am Industrial & Systems Engineer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amadeuslight&show_icons=true&theme=radical)
 
 
-##Skills: 
+## Skills: 
 Microsoft Office/ SQL/ Data Analysis/ project management/Artist 2D/ 
 
 - 🔭 I’m currently working on Blender Character Design 
