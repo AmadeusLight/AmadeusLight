@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is Ricardo Terrazas
-#### I am Industrial & Systems Engineer
-
 ![Header](./11.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amadeuslight&show_icons=true&theme=radical)
